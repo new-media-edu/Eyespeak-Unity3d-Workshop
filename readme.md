@@ -5,9 +5,12 @@ If students plan on using their own computers they must download Unity before th
 
 ### Introduction
 + How to navigate
+  + 3D Axes
 + Adding objects
++ Inspector
 + Camera
 + Game Mode
++ Project Folder
 
 ### Interactivity/Dynamism
 + Physics
@@ -17,4 +20,20 @@ If students plan on using their own computers they must download Unity before th
   1. Rotation
   2. Movement
   3. Spawning
+  4. Keyboard input
 + Animation
+
+### External Media
++ Images (textures)
++ Audio
++ Asset Store
+
+### VR
++ 1. Oculus
++ 2. Cardboard
+
+### Publishing
++ iOS/Android
++ WebGL
++ Application
++ Installations
