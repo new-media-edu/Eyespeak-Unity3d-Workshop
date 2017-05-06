@@ -29,8 +29,8 @@ If students plan on using their own computers they must download Unity before th
 + Asset Store
 
 ### VR
-+ 1. Oculus
-+ 2. Cardboard
++ Oculus
++ Cardboard
 
 ### Publishing
 + iOS/Android
